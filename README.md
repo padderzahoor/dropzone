@@ -5,6 +5,20 @@ No installation, no accounts, no cloud. Just run one Python file and open the li
 
 Perfect for quickly moving large files (GBs) between your phone, laptop, and other devices without cables or slow cloud uploads.
 
+## Screenshots
+
+### 1. Terminal (Host Computer)
+
+![Dropzone running in terminal](screenshots/terminal.png)
+
+*Running `python server.py` — the address and QR code appear so other devices can easily connect.*
+
+### 2. Other Device (Phone / Browser)
+
+![Dropzone on phone](screenshots/device.png)
+
+*The clean web interface on an iPhone. Files appear instantly on every device connected to the same Wi-Fi.*
+
 ## Features
 
 - Works on any device with a modern browser (iPhone, Android, Windows, macOS, Linux)
